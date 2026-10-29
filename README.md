@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # FootTicket
 
 Application de billetterie football avec une API Express/Mongoose et une interface React/Vite.
